@@ -9,7 +9,7 @@
 - :snake: I like Python...
 - :crab: ...and Rust
 - :office: I work at [AWS Cloud](https://aws.amazon.com/)
-- :wink: I collaborte with Open Source projects
+- :wink: I collaborate with Open Source projects
 - :radio: I collaborate with Ham Radio community
 - :speech_balloon: Ask me about cybersecurity, microservices, IoT, Ham Radio & SDR and I'll try to help you
 - :mailbox: How to reach me: j@0x30.io or Twitter [@ea1het](twitter.com/ea1het)
