@@ -13,4 +13,4 @@
 - :radio: I collaborate with _**Ham Radio**_ community
 - :speech_balloon: Ask me about cybersecurity, microservices, IoT, Ham Radio & SDR and I'll try to help you
 - :mailbox: How to reach me: j@0x30.io or Twitter [@ea1het](twitter.com/ea1het)
-- :sparkles: Fun fact: Check out my **YouTube** Channel https://www.youtube.com/channel/UCfa-n2l9qjVgBh53hVIzZPQ
+- :sparkles: Fun fact: Check out my **YouTube Channel** https://www.youtube.com/channel/UCfa-n2l9qjVgBh53hVIzZPQ
