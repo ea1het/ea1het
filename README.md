@@ -8,7 +8,7 @@
 - :house: I live in the North of Spain
 - :snake: I like Python...
 - :crab: ...and Rust
-- :office: I work at [AWS Cloud](https://aws.amazon.com/)
+- :office: I work at [AWS](https://aws.amazon.com/)
 - :wink: I collaborate with _**Open Source**_ projects
 - :radio: I collaborate with _**Ham Radio**_ community
 - :speech_balloon: Ask me about cybersecurity, microservices, IoT, Ham Radio & SDR and I'll try to help you
