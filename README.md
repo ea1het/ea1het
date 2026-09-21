@@ -10,7 +10,8 @@
   <a href="https://jonathangf.com">Personal website</a> •
   <a href="https://www.linkedin.com/in/jonathan-gf/">LinkedIn</a> •
   <a href="https://instagram.com/ea1het">Instagram</a> •
-  <a href="https://www.youtube.com/@ea1het">YouTube</a> •
+  <a href="https://www.youtube.com/@ea1het">YouTube EA1HET</a> •
+  <a href="https://www.youtube.com/@safebytelabs">YouTube SBL</a> •
   <a href="https://ea1het.com">EA1HET</a>
 </p>
 
